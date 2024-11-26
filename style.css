@@ -1,0 +1,8 @@
+
+
+/* Code inspired by ChatGPT -- https://chat.openai.com */
+html, body { 
+    height: 100%;          /* Ensure the body takes up the full height */
+    margin: 0;             /* Remove default margin */
+    overflow: hidden;      /* Disable scrolling */
+  }
